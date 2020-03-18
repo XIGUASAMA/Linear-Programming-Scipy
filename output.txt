@@ -1,0 +1,8 @@
+     con: array([1.81702120e-09, 9.08514153e-10, 3.63421293e-10])
+     fun: -1.9999999989416963
+ message: 'Optimization terminated successfully.'
+     nit: 5
+   slack: array([], dtype=float64)
+  status: 0
+ success: True
+       x: array([4., 1., 9.])
